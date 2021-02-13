@@ -1,0 +1,22 @@
+deb http://old-releases.ubuntu.com/ubuntu/ lucid main restricted
+deb-src http://old-releases.ubuntu.com/ubuntu/ lucid main restricted
+deb http://old-releases.ubuntu.com/ubuntu/ lucid-updates main restricted
+deb-src http://old-releases.ubuntu.com/ubuntu/ lucid-updates main restricted
+deb http://old-releases.ubuntu.com/ubuntu/ lucid universe
+deb-src http://old-releases.ubuntu.com/ubuntu/ lucid universe
+deb http://old-releases.ubuntu.com/ubuntu/ lucid-updates universe
+deb-src http://old-releases.ubuntu.com/ubuntu/ lucid-updates universe
+deb http://old-releases.ubuntu.com/ubuntu/ lucid multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ lucid multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ lucid-updates multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ lucid-updates multiverse
+# deb http://old-releases.ubuntu.com/ubuntu/ lucid-backports main restricted universe multiverse
+# deb-src http://old-releases.ubuntu.com/ubuntu/ lucid-backports main restricted universe multiverse
+# deb http://old-releases.canonical.com/ubuntu lucid partner
+# deb-src http://old-releases.canonical.com/ubuntu lucid partner
+deb http://old-releases.ubuntu.com/ubuntu lucid-security main restricted
+deb-src http://old-releases.ubuntu.com/ubuntu lucid-security main restricted
+deb http://old-releases.ubuntu.com/ubuntu lucid-security universe
+deb-src http://old-releases.ubuntu.com/ubuntu lucid-security universe
+deb http://old-releases.ubuntu.com/ubuntu lucid-security multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu lucid-security multiverse
